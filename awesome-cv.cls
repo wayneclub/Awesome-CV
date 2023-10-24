@@ -72,6 +72,7 @@
 \RequirePackage[quiet]{fontspec}
 % To support LaTeX quoting style
 \defaultfontfeatures{Ligatures=TeX}
+% \defaultfontfeatures{Ligatures=XeTeX}
 % Needed to manage math fonts
 \RequirePackage{unicode-math}
 % Needed to use icons from font-awesome
