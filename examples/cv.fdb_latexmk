@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1698155499 "cv.xdv" "cv.pdf" "cv" 1698155500 0
-  "cv.xdv" 1698155499 153448 9b12f940c9f64feae5d9b1b48fdc9c96 "xelatex"
+["xdvipdfmx"] 1698291777 "cv.xdv" "cv.pdf" "cv" 1698291778 0
+  "cv.xdv" 1698291777 152636 be5bb5fa8f99d04144156a89ca96889f "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1698155498 "/Users/wayneclub/Awesome-CV/examples/cv.tex" "cv.xdv" "cv" 1698155500 0
+["xelatex"] 1698291775 "/Users/wayneclub/Awesome-CV/examples/cv.tex" "cv.xdv" "cv" 1698291778 0
   "/Users/wayneclub/Awesome-CV/examples/cv.tex" 1698148587 3708 217fdddd23ff94578ef02973cec631c0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -176,7 +176,7 @@
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1697810314 10502841 b0fd603e48d161c4099b9cd827502c53 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "awesome-cv.cls" 1698150228 29640 f576a1472e18de7ae0b389729c02e612 ""
-  "cv.aux" 1698155499 464 8c4176f6c5c0d6b9be8dbaad04f70742 "xelatex"
+  "cv.aux" 1698291777 464 8c4176f6c5c0d6b9be8dbaad04f70742 "xelatex"
   "cv.tex" 1698148587 3708 217fdddd23ff94578ef02973cec631c0 ""
   "cv/certificates.tex" 1698148587 1736 78629a6b1160748ad70169f291b46285 ""
   "cv/committees.tex" 1698148587 1493 3207d2daaf27d324622b490731b6099a ""
@@ -185,7 +185,7 @@
   "cv/extracurricular.tex" 1698148587 3751 abff47e3fd0b9900a99640dbeb2c645d ""
   "cv/honors.tex" 1698148587 5365 f44ecf4f95d20bf20dd74af0e49d0e04 ""
   "cv/presentation.tex" 1698148587 1896 75fcd6aede910958ee2c419898f585d5 ""
-  "cv/skills.tex" 1698148587 1237 1b4755a267be39ee61ead68d5ee98a55 ""
+  "cv/skills.tex" 1698291775 1155 b7193a29fda2c910b1e53c8f2f2237ad ""
   "cv/writing.tex" 1698148587 1226 6b343a618281514c2b478b942ff9a477 ""
   (generated)
   "cv.aux"

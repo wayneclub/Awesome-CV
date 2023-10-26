@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1698291707 "resume.xdv" "resume.pdf" "resume" 1698291707 0
-  "resume.xdv" 1698291707 82596 a9dda5b94c1083915c04b1198501f0ae "xelatex"
+["xdvipdfmx"] 1698303587 "resume.xdv" "resume.pdf" "resume" 1698303587 0
+  "resume.xdv" 1698303587 81176 f3c2a61952ff89308887de7b5e5f9dec "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1698291705 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1698291707 0
+["xelatex"] 1698303585 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1698303587 0
   "/Users/wayneclub/Awesome-CV/examples/resume.tex" 1698155544 3735 8f0cbc98dc23e0d94e62fcacc3261fec ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -176,14 +176,14 @@
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1697810314 10502841 b0fd603e48d161c4099b9cd827502c53 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "awesome-cv.cls" 1698150228 29640 f576a1472e18de7ae0b389729c02e612 ""
-  "cv/skills.tex" 1698155833 1165 e6aed53937f59b5b5363b219748dc1d7 ""
-  "resume.aux" 1698291707 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
+  "cv/skills.tex" 1698291775 1155 b7193a29fda2c910b1e53c8f2f2237ad ""
+  "resume.aux" 1698303587 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
   "resume.tex" 1698155544 3735 8f0cbc98dc23e0d94e62fcacc3261fec ""
   "resume/certificates.tex" 1698146420 1742 6fa49f2518ec3e74e7508f8eb209eaea ""
   "resume/education.tex" 1698146237 895 c2cbf55fc2a270150316ed8ba4838825 ""
-  "resume/experience.tex" 1698239280 7097 6f53a048596212060dce93533309d740 ""
+  "resume/experience.tex" 1698303479 6984 dcf88e8b166d2dcb12931efefef1fb33 ""
   "resume/extracurricular.tex" 1698148118 1827 d2332043fc6fcefca45ca6807c71d3bf ""
-  "resume/honors.tex" 1698146882 4372 01a922847752fc25b779c561e67e9049 ""
+  "resume/honors.tex" 1698303585 4374 6d0709ff9bafdec6fc7e2fd98fba7494 ""
   "resume/summary.tex" 1698291705 1124 8918597f31515d59e2ce4a93ea33abf8 ""
   (generated)
   "resume.aux"
