@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1698155835 "resume.xdv" "resume.pdf" "resume" 1698155836 0
-  "resume.xdv" 1698155835 84252 7b8aff9f4a9d602e2acf5250a9f370b1 "xelatex"
+["xdvipdfmx"] 1698291707 "resume.xdv" "resume.pdf" "resume" 1698291707 0
+  "resume.xdv" 1698291707 82596 a9dda5b94c1083915c04b1198501f0ae "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1698155834 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1698155836 0
+["xelatex"] 1698291705 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1698291707 0
   "/Users/wayneclub/Awesome-CV/examples/resume.tex" 1698155544 3735 8f0cbc98dc23e0d94e62fcacc3261fec ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -177,14 +177,14 @@
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "awesome-cv.cls" 1698150228 29640 f576a1472e18de7ae0b389729c02e612 ""
   "cv/skills.tex" 1698155833 1165 e6aed53937f59b5b5363b219748dc1d7 ""
-  "resume.aux" 1698155835 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
+  "resume.aux" 1698291707 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
   "resume.tex" 1698155544 3735 8f0cbc98dc23e0d94e62fcacc3261fec ""
   "resume/certificates.tex" 1698146420 1742 6fa49f2518ec3e74e7508f8eb209eaea ""
   "resume/education.tex" 1698146237 895 c2cbf55fc2a270150316ed8ba4838825 ""
-  "resume/experience.tex" 1697808904 7336 34ea4a3714342587425f3860b95da1f3 ""
+  "resume/experience.tex" 1698239280 7097 6f53a048596212060dce93533309d740 ""
   "resume/extracurricular.tex" 1698148118 1827 d2332043fc6fcefca45ca6807c71d3bf ""
   "resume/honors.tex" 1698146882 4372 01a922847752fc25b779c561e67e9049 ""
-  "resume/summary.tex" 1697808904 1173 8cccbb1be74bc9c53c5dee6ba7b7547d ""
+  "resume/summary.tex" 1698291705 1124 8918597f31515d59e2ce4a93ea33abf8 ""
   (generated)
   "resume.aux"
   "resume.log"
