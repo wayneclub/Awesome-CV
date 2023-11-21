@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1700029165 "resume.xdv" "resume.pdf" "resume" 1700029165 0
-  "resume.xdv" 1700029165 100164 68ee241041d759e081f076b721c6c771 "xelatex"
+["xdvipdfmx"] 1700577957 "resume.xdv" "resume.pdf" "resume" 1700577957 0
+  "resume.xdv" 1700577957 101468 b716b62c8e167a49d128ad0cb2767d5f "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1700029163 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1700029165 0
+["xelatex"] 1700577955 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1700577957 0
   "/Users/wayneclub/Awesome-CV/examples/resume.tex" 1699607530 3733 86a2a691fafc34ef0fba6c630949bcdc ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -177,15 +177,15 @@
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "awesome-cv.cls" 1698150228 29640 f576a1472e18de7ae0b389729c02e612 ""
   "cv/skills.tex" 1699602625 1161 26bed9fa7242da1e9b9c072b22886146 ""
-  "resume.aux" 1700029165 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
+  "resume.aux" 1700577957 464 80727c0da4e59171bc88899b3dda9d51 "xelatex"
   "resume.tex" 1699607530 3733 86a2a691fafc34ef0fba6c630949bcdc ""
   "resume/certificates.tex" 1700029164 1738 32a92a390dc25b68c60ac28438c9cfa4 ""
   "resume/education.tex" 1698333736 930 8df904322b42f8f707f85e7eebc1877e ""
   "resume/experience.tex" 1700028267 6390 47ab789de81e8f298195b271566ca024 ""
   "resume/extracurricular.tex" 1700028271 2859 59e95b9385eb611f155a1e748487fdbd ""
   "resume/honors.tex" 1698303585 4374 6d0709ff9bafdec6fc7e2fd98fba7494 ""
-  "resume/summary.tex" 1700028263 1045 0e86b1aa0f8c22f9bf02b53a3e90d965 ""
-  "resume/writing.tex" 1700028269 2063 376b036de7c639948d8296b6195d89f5 ""
+  "resume/summary.tex" 1700577403 1072 2d47ce9bb808ae0f9d86b11e3a195fb3 ""
+  "resume/writing.tex" 1700577955 2088 7465369a24d74c4cc2f11dc36e00bbb0 ""
   (generated)
   "resume.aux"
   "resume.log"
