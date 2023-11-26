@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1700578038 "resume.xdv" "resume.pdf" "resume" 1700578039 0
-  "resume.xdv" 1700578038 101468 b15c0d5e26d88fac00485c45d7b49247 "xelatex"
+["xdvipdfmx"] 1701023632 "resume.xdv" "resume.pdf" "resume" 1701023632 0
+  "resume.xdv" 1701023632 101372 8a041307a07ff1c164eb177d7d64b7c7 "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1700578037 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1700578039 0
+["xelatex"] 1701023630 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1701023632 0
   "/Users/wayneclub/Awesome-CV/examples/resume.tex" 1699607530 3733 86a2a691fafc34ef0fba6c630949bcdc ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -177,15 +177,15 @@
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "awesome-cv.cls" 1698150228 29640 f576a1472e18de7ae0b389729c02e612 ""
   "cv/skills.tex" 1699602625 1161 26bed9fa7242da1e9b9c072b22886146 ""
-  "resume.aux" 1700578038 464 80727c0da4e59171bc88899b3dda9d51 "xelatex"
+  "resume.aux" 1701023632 464 80727c0da4e59171bc88899b3dda9d51 "xelatex"
   "resume.tex" 1699607530 3733 86a2a691fafc34ef0fba6c630949bcdc ""
   "resume/certificates.tex" 1700029164 1738 32a92a390dc25b68c60ac28438c9cfa4 ""
-  "resume/education.tex" 1700578037 930 93ded71db1e2ecf5350a7348fefb4be7 ""
-  "resume/experience.tex" 1700028267 6390 47ab789de81e8f298195b271566ca024 ""
-  "resume/extracurricular.tex" 1700028271 2859 59e95b9385eb611f155a1e748487fdbd ""
-  "resume/honors.tex" 1698303585 4374 6d0709ff9bafdec6fc7e2fd98fba7494 ""
-  "resume/summary.tex" 1700577403 1072 2d47ce9bb808ae0f9d86b11e3a195fb3 ""
-  "resume/writing.tex" 1700577955 2088 7465369a24d74c4cc2f11dc36e00bbb0 ""
+  "resume/education.tex" 1701023209 924 3b5b3c534fb5e4de0cd0169e4d7f7f18 ""
+  "resume/experience.tex" 1701023130 6347 b60c7fcbd554c1814f853b02d93f337b ""
+  "resume/extracurricular.tex" 1701023443 2837 52d1fe28d75e787dfbec4749b6896095 ""
+  "resume/honors.tex" 1701023630 4400 acb3a68a2ac5c5fabc23383d7f5df09f ""
+  "resume/summary.tex" 1701019709 1072 2d47ce9bb808ae0f9d86b11e3a195fb3 ""
+  "resume/writing.tex" 1701023603 2142 1e753266b3d777cc18af32cbff90c776 ""
   (generated)
   "resume.aux"
   "resume.log"
