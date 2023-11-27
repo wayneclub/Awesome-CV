@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1701056624 "resume.xdv" "resume.pdf" "resume" 1701056625 0
-  "resume.xdv" 1701056624 106724 c92f966aa39727ac622c44eb87be09db "xelatex"
+["xdvipdfmx"] 1701056713 "resume.xdv" "resume.pdf" "resume" 1701056713 0
+  "resume.xdv" 1701056713 106724 2a595869c5401e6fdd232bf9aeae5244 "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1701056623 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1701056625 0
-  "/Users/wayneclub/Awesome-CV/examples/resume.tex" 1701055919 3743 e191a03e119cac8f2c8b6ab148607a94 ""
+["xelatex"] 1701056711 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1701056713 0
+  "/Users/wayneclub/Awesome-CV/examples/resume.tex" 1701056711 3741 db3fe8ea744cd6954cc71c9228eb1175 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -173,8 +173,8 @@
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1697810314 10502841 b0fd603e48d161c4099b9cd827502c53 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "awesome-cv.cls" 1701055466 29600 8d40609025f93862de82a3e783397186 ""
-  "resume.aux" 1701056624 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
-  "resume.tex" 1701055919 3743 e191a03e119cac8f2c8b6ab148607a94 ""
+  "resume.aux" 1701056713 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
+  "resume.tex" 1701056711 3741 db3fe8ea744cd6954cc71c9228eb1175 ""
   "resume/certificates.tex" 1700029164 1738 32a92a390dc25b68c60ac28438c9cfa4 ""
   "resume/education.tex" 1701023209 924 3b5b3c534fb5e4de0cd0169e4d7f7f18 ""
   "resume/experience.tex" 1701056622 6933 9da990520110fabfd1ccf31fd5ab4758 ""
