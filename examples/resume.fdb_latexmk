@@ -1,16 +1,13 @@
 # Fdb version 4
-["xdvipdfmx"] 1701054779 "resume.xdv" "resume.pdf" "resume" 1701054779 0
-  "resume.xdv" 1701054779 103548 7ffae7a6907d245e8c31b0d04f159c39 "xelatex"
+["xdvipdfmx"] 1701056624 "resume.xdv" "resume.pdf" "resume" 1701056625 0
+  "resume.xdv" 1701056624 106724 c92f966aa39727ac622c44eb87be09db "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1701054777 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1701054779 0
-  "/Users/wayneclub/Awesome-CV/examples/resume.tex" 1701054665 3735 3424eb14f59e0f226dcb1528c4f99f2f ""
+["xelatex"] 1701056623 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1701056625 0
+  "/Users/wayneclub/Awesome-CV/examples/resume.tex" 1701055919 3743 e191a03e119cac8f2c8b6ab148607a94 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm" 1136768653 1508 3b32edd0d68f6498a5a375e78f9edc5e ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm" 1136768653 1528 e2423ae06dc7dee599cceb79d1c9dc32 ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty" 1576016050 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -98,7 +95,7 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/base/fix-cm.sty" 1654720880 14741 4a117911951ff752ec1722fc562b3fda ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty" 1654720880 5119 4ce42f43368f652f9c9522d943cce8e4 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty" 1654720880 5319 48d7f3cfa322abd2788e3c09d624b922 ""
-  "/usr/local/texlive/2023/texmf-dist/tex/latex/base/size11.clo" 1667332637 8464 63bf71cc1214ffdd38288da73a7ca182 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo" 1667332637 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty" 1654720880 2894 f2f8ee7d4fb94263f9f255fa22cab2d3 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1enc.def" 1654720880 8090 4db9ed5f90a74e5a2796a28b05fc0731 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/base/tuenc.def" 1654720880 26445 9ed4a9401f29cbb58ef6909cd5aec01f ""
@@ -175,15 +172,15 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1697810314 10502841 b0fd603e48d161c4099b9cd827502c53 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "awesome-cv.cls" 1701054741 29640 1063ceb49a9836a845f022dc981e4fe0 ""
-  "cv/skills.tex" 1699602625 1161 26bed9fa7242da1e9b9c072b22886146 ""
-  "resume.aux" 1701054779 464 80727c0da4e59171bc88899b3dda9d51 "xelatex"
-  "resume.tex" 1701054665 3735 3424eb14f59e0f226dcb1528c4f99f2f ""
+  "awesome-cv.cls" 1701055466 29600 8d40609025f93862de82a3e783397186 ""
+  "resume.aux" 1701056624 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
+  "resume.tex" 1701055919 3743 e191a03e119cac8f2c8b6ab148607a94 ""
   "resume/certificates.tex" 1700029164 1738 32a92a390dc25b68c60ac28438c9cfa4 ""
   "resume/education.tex" 1701023209 924 3b5b3c534fb5e4de0cd0169e4d7f7f18 ""
-  "resume/experience.tex" 1701054777 6563 5811a544ec5b46a69d2f1c3fdf01627d ""
+  "resume/experience.tex" 1701056622 6933 9da990520110fabfd1ccf31fd5ab4758 ""
   "resume/extracurricular.tex" 1701051055 2826 3427fa5cbf9b88130bfc4cb4aff9cea9 ""
   "resume/honors.tex" 1701023630 4400 acb3a68a2ac5c5fabc23383d7f5df09f ""
+  "resume/skills.tex" 1701056220 1186 4b268799564b7427971fc1c2149d3c12 ""
   "resume/summary.tex" 1701051081 1070 b82e69f31c61cd7878b0e62a3157f2df ""
   "resume/writing.tex" 1701053697 2135 08ef492cf729ba7849ef410da7626fee ""
   (generated)
