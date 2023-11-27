@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1701051154 "resume.xdv" "resume.pdf" "resume" 1701051155 0
-  "resume.xdv" 1701051154 101264 3518e049978ca6975d2bbeb4f83796ea "xelatex"
+["xdvipdfmx"] 1701051723 "resume.xdv" "resume.pdf" "resume" 1701051724 0
+  "resume.xdv" 1701051723 101248 31e901cd90f8a71e3fefa8734dace613 "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1701051153 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1701051155 0
+["xelatex"] 1701051722 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1701051724 0
   "/Users/wayneclub/Awesome-CV/examples/resume.tex" 1699607530 3733 86a2a691fafc34ef0fba6c630949bcdc ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -177,11 +177,11 @@
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "awesome-cv.cls" 1698150228 29640 f576a1472e18de7ae0b389729c02e612 ""
   "cv/skills.tex" 1699602625 1161 26bed9fa7242da1e9b9c072b22886146 ""
-  "resume.aux" 1701051154 464 80727c0da4e59171bc88899b3dda9d51 "xelatex"
+  "resume.aux" 1701051723 464 80727c0da4e59171bc88899b3dda9d51 "xelatex"
   "resume.tex" 1699607530 3733 86a2a691fafc34ef0fba6c630949bcdc ""
   "resume/certificates.tex" 1700029164 1738 32a92a390dc25b68c60ac28438c9cfa4 ""
   "resume/education.tex" 1701023209 924 3b5b3c534fb5e4de0cd0169e4d7f7f18 ""
-  "resume/experience.tex" 1701051154 6333 20c379333a3c4266f0ade67a4d1f5145 ""
+  "resume/experience.tex" 1701051721 6331 e6db422352662405dee9a9b9ae6f3c68 ""
   "resume/extracurricular.tex" 1701051055 2826 3427fa5cbf9b88130bfc4cb4aff9cea9 ""
   "resume/honors.tex" 1701023630 4400 acb3a68a2ac5c5fabc23383d7f5df09f ""
   "resume/summary.tex" 1701051081 1070 b82e69f31c61cd7878b0e62a3157f2df ""
