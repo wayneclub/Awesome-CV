@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1701051723 "resume.xdv" "resume.pdf" "resume" 1701051724 0
-  "resume.xdv" 1701051723 101248 31e901cd90f8a71e3fefa8734dace613 "xelatex"
+["xdvipdfmx"] 1701054779 "resume.xdv" "resume.pdf" "resume" 1701054779 0
+  "resume.xdv" 1701054779 103548 7ffae7a6907d245e8c31b0d04f159c39 "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1701051722 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1701051724 0
-  "/Users/wayneclub/Awesome-CV/examples/resume.tex" 1699607530 3733 86a2a691fafc34ef0fba6c630949bcdc ""
+["xelatex"] 1701054777 "/Users/wayneclub/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1701054779 0
+  "/Users/wayneclub/Awesome-CV/examples/resume.tex" 1701054665 3735 3424eb14f59e0f226dcb1528c4f99f2f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -175,17 +175,17 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1697810314 10502841 b0fd603e48d161c4099b9cd827502c53 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "awesome-cv.cls" 1698150228 29640 f576a1472e18de7ae0b389729c02e612 ""
+  "awesome-cv.cls" 1701054741 29640 1063ceb49a9836a845f022dc981e4fe0 ""
   "cv/skills.tex" 1699602625 1161 26bed9fa7242da1e9b9c072b22886146 ""
-  "resume.aux" 1701051723 464 80727c0da4e59171bc88899b3dda9d51 "xelatex"
-  "resume.tex" 1699607530 3733 86a2a691fafc34ef0fba6c630949bcdc ""
+  "resume.aux" 1701054779 464 80727c0da4e59171bc88899b3dda9d51 "xelatex"
+  "resume.tex" 1701054665 3735 3424eb14f59e0f226dcb1528c4f99f2f ""
   "resume/certificates.tex" 1700029164 1738 32a92a390dc25b68c60ac28438c9cfa4 ""
   "resume/education.tex" 1701023209 924 3b5b3c534fb5e4de0cd0169e4d7f7f18 ""
-  "resume/experience.tex" 1701051721 6331 e6db422352662405dee9a9b9ae6f3c68 ""
+  "resume/experience.tex" 1701054777 6563 5811a544ec5b46a69d2f1c3fdf01627d ""
   "resume/extracurricular.tex" 1701051055 2826 3427fa5cbf9b88130bfc4cb4aff9cea9 ""
   "resume/honors.tex" 1701023630 4400 acb3a68a2ac5c5fabc23383d7f5df09f ""
   "resume/summary.tex" 1701051081 1070 b82e69f31c61cd7878b0e62a3157f2df ""
-  "resume/writing.tex" 1701051141 2135 08ef492cf729ba7849ef410da7626fee ""
+  "resume/writing.tex" 1701053697 2135 08ef492cf729ba7849ef410da7626fee ""
   (generated)
   "resume.aux"
   "resume.log"
